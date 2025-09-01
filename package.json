@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-05-ai-powered-protein-tracking-platform-for-sustainab",
+  "version": "1.0.0",
+  "description": "AI-Powered Protein Tracking Platform for Sustainable Dietary Success",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "health-&-fitness-technology"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-05/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-05-ai-powered-protein-tracking-platform-for-sustainab.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
